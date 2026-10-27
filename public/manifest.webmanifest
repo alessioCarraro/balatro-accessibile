@@ -1,0 +1,19 @@
+{
+  "name": "La tua formazione — Il campionato di carte",
+  "short_name": "La tua formazione",
+  "description": "Un campionato di carte accessibile, giocabile da tastiera e installabile.",
+  "lang": "it",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0a1710",
+  "theme_color": "#10271b",
+  "icons": [
+    {
+      "src": "/formazione-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
